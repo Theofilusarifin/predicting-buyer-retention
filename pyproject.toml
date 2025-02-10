@@ -1,7 +1,7 @@
 [project]
-name = "retained-buyer-prediction"
+name = "Predicting-Buyer-Retention-to-Evaluate-Campaign-Effectiveness-at-Shopee-Indonesia"
 version = "0.1.0"
-description = "Add your description here"
+description = "Develop a robust predictive model that accurately identifies new buyers likely to be retained, enabling Shopee Indonesia to optimize marketing campaigns by focusing on initiatives that attract high-quality, long-term buyers."
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
